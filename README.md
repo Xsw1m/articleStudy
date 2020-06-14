@@ -28,5 +28,6 @@ window.onload = function(){
     console.log('div1:', event.target, event.target.id, event.target.nodeName.toLocaleLowerCase())
   }, true)  // 获取事件的id 标签 进行判断并绑定函数 id就是具体绑定，nodeName标签div循环出新的也可以绑定
  }
+// event.target 获取点击的事件
  https://blog.csdn.net/qq_38128179/article/details/86293394
 ```
