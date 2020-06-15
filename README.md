@@ -7,7 +7,7 @@
 ### 目录
 * [1. 事件委托](#1-事件委托)
 * [2. Vue数据双向绑定原理实现](#2-Vue数据双向绑定原理实现)
-* [3. BFC/清除浮动](#3-BFC/清除浮动)
+* [3. BFC/清除浮动](#3-BFC原理应用)
 
 ### 1. 事件委托
 ## 一、事件委托
@@ -52,8 +52,8 @@ window.onload = function(){
 
 4. 对象都有 object -> get set 属性 Object.defineProperty( ) 对get set 进行操作
 ```
-#### 3. BFC/清除浮动
-## BFC
+#### 3. BFC原理应用
+## BFC清除浮动
 [BFC/定义原理应用](https://blog.csdn.net/sinat_36422236/article/details/88763187)
 ```
 BFC的布局规则
