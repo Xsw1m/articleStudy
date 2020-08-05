@@ -20,3 +20,11 @@
 ##### 这是五级标题
 ###### 这是六级标题
 `------------------------------------------`
+
+`printf("hello world!\n");`
+
+int main(int argc, char **argv)
+{
+	printf("hello world!\n");
+	return 0;
+}
